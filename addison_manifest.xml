@@ -5,15 +5,16 @@
             fetch="https://github.com"
             clone-depth="1" />
  <!--Tree -->
- <project path="device/motorola/addison" name="addison-experimentations/android_device_motorola_addison" remote="github" revision="lineage-18.1" />
+ <project path="device/xiaomi/vayu" name="SkylineUI-Devices/device_xiaomi_vayu" remote="github" revision="fourteen" />
 
  <!--Kernel -->
- <project path="kernel/motorola/msm8953" name="addison-experimentations/android_kernel_motorola_msm8953" remote="github" revision="lineage-18.1" />
+ <project path="kernel/xiaomi/vayu" name="SkylineUI-Devices/kernel_xiaomi_vayu" remote="github" revision="fourteen" />
  
  <!--Vendor -->
- <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="lineage-18.1" />
+ <project path="vendor/xiaomi/vayu" name="SkylineUI-Devices/vendor_xiaomi_vayu" remote="github" revision="thirteen" />
  
  <!--Extras -->
  <!--<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" /> -->
- 
+ <project path="prebuilts/clang/host/linux-86/clang-latest" name="gxc2356/android_prebuilts_clang_host_linux-x86_clang-r510928" remote="gitlab" revision="14.0" />
+ <project path="vendor/mgc" name="gxc2356/vendor-g-cam-bsg" remote="gitlab" revision="main" />
 </manifest>
