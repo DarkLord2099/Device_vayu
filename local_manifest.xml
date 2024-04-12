@@ -11,7 +11,7 @@
  <project path="kernel/xiaomi/vayu" name="platform_kernel_xiaomi_vayu" remote="DarkLord2099" revision="main" />
  
  <!--Vendor -->
- <project path="vendor/xiaomi/vayu" name="android_vendor_xiaomi_vayu" remote="DarkLord2099" revision="14" />
+ <project path="vendor/xiaomi/vayu" name="platform_vendor_xiaomi_vayu" remote="DarkLord2099" revision="14" />
  
  <!--Extras -->
  <!--<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" /> -->
