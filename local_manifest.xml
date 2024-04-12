@@ -5,13 +5,13 @@
             fetch="https://github.com"
             clone-depth="1" />
  <!--Tree -->
- <project path="device/xiaomi/vayu" name="SkylineUI-Devices/device_xiaomi_vayu" remote="DarkLord2099" revision="fourteen" />
+ <project path="device/xiaomi/vayu" name="android_device_xiaomi_vayu" remote="DarkLord2099" revision="voltage-14" />
 
  <!--Kernel -->
- <project path="kernel/xiaomi/vayu" name="SkylineUI-Devices/kernel_xiaomi_vayu" remote="DarkLord2099" revision="fourteen" />
+ <project path="kernel/xiaomi/vayu" name="platform_kernel_xiaomi_vayu" remote="DarkLord2099" revision="kernelsu" />
  
  <!--Vendor -->
- <project path="vendor/xiaomi/vayu" name="SkylineUI-Devices/vendor_xiaomi_vayu" remote="DarkLord2099" revision="thirteen" />
+ <project path="vendor/xiaomi/vayu" name="android_vendor_xiaomi_vayu" remote="DarkLord2099" revision="fourteen" />
  
  <!--Extras -->
  <!--<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" /> -->
