@@ -8,7 +8,7 @@
  <project path="device/xiaomi/vayu" name="android_device_xiaomi_vayu" remote="DarkLord2099" revision="voltage-14" />
 
  <!--Kernel -->
- <project path="kernel/xiaomi/vayu" name="platform_kernel_xiaomi_vayu" remote="DarkLord2099" revision="kernelsu" />
+ <project path="kernel/xiaomi/vayu" name="platform_kernel_xiaomi_vayu" remote="DarkLord2099" revision="main" />
  
  <!--Vendor -->
  <project path="vendor/xiaomi/vayu" name="android_vendor_xiaomi_vayu" remote="DarkLord2099" revision="fourteen" />
